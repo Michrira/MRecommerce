@@ -32,7 +32,8 @@ My discord study group!
   Project licensed under the MIT license.
 
 ## Link to the video demonstration: 
-https://drive.google.com/file/d/1QVQZhCddw5QR-mHSF6irs8he6lRxCiDN/view
+https://drive.google.com/file/d/1UaSnYfcEL2X6-odUqXmM-JogU06pzNLh/view
+
 
 ## Questions
 
